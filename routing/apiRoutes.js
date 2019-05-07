@@ -1,6 +1,6 @@
 
 
-var friendsData = require("../data/friends");
+var friendsData = require("../app/data/friends");
 
 
 
